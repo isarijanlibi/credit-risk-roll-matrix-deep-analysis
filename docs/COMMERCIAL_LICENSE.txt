@@ -1,0 +1,14 @@
+COMMERCIAL LICENSE SUMMARY
+Product: Credit Risk – Roll Matrix Deep Analysis
+Version: 1.0
+
+This repository contains public demo materials only. The full product package (production PBIX, full documentation, and the complete commercial license agreement) is distributed to paying customers only.
+
+Key terms (summary):
+- Grant: Non‑exclusive, non‑transferable license to use the supplied PBIX and documentation for internal business purposes as specified in the purchased package.
+- Restrictions: Redistribution, resale, public posting, or sublicensing of the PBIX files or derivative works is strictly prohibited without prior written authorization.
+- Support: Basic email support included for 90 days from delivery; extended support available under separate agreement.
+- Liability: Product provided "as is"; licensor's liability limited to the purchase price.
+- Governing law: Republic of Azerbaijan
+
+To receive the full Commercial License and product package after purchase, contact: isarijanlibi@outlook.com 
