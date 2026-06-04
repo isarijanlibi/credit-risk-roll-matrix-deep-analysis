@@ -37,7 +37,7 @@ A production‑grade Power BI platform that consolidates portfolio exposure, del
 ## What’s included (public demo)
 - Demo preview PDF: [credit-risk-roll-matrix-deep-analysis.pdf](credit-risk-roll-matrix-deep-analysis.pdf)
 
-**Note:** The full commercial package (production PBIX, full documentation, commercial license) is available only after purchase. See `docs/COMMERCIAL_LICENSE.txt`.
+**Note:** The full commercial package (production PBIX, full documentation, commercial license) is available only after purchase. See [docs/COMMERCIAL_LICENSE.txt](docs/COMMERCIAL_LICENSE.txt) for a summary of license terms.
 
 ---
 
