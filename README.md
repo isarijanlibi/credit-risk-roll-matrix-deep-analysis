@@ -50,7 +50,7 @@ A production‑grade Power BI platform that consolidates portfolio exposure, del
 ---
 
 ## How to buy
-Purchase via: **[Gumroad – Credit Risk Roll Matrix Deep Analysis](https://gumroad.com/isarijanlibi)**  
+Purchase via: **[Gumroad – Credit Risk Roll Matrix Deep Analysis](https://isarijan.gumroad.com/l/douysq)**  
 After payment you will receive a secure download link and license file by email.
 
 **Pilot offer:** first 3 buyers receive 15% discount and onboarding support in exchange for a short testimonial.
