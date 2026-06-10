@@ -15,6 +15,12 @@ A production‑grade Power BI platform that consolidates portfolio exposure, del
 
 ---
 
+## Video walkthrough
+🎬 **Watch the comprehensive walkthrough and premium feature demonstration on YouTube:**  
+👉 **[Credit Risk Analytics Suite – Full Video Demo](https://www.youtube.com/watch?v=1hhJJtn1ZwM)**
+
+---
+
 ## Demo gallery
 
 ### Executive Overview
